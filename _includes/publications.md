@@ -183,5 +183,25 @@
       </div>
       </div>
     </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2019_CellCycle_RNAEditing.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">Cell Cycle</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href=""> Landscape of RNA editing reveals new insights into the dynamic gene regulation of spermatogenesis</a></div>
+          <div class="author">Wang X#, Wu X, Zhu Z, Li H, Li T, <strong>Li Q</strong>, Zhang P, Li L, Che D, Xiao X, Liu T, Hua J*, Liao M*.</div>
+          <div class="periodical"><strong><em>Cell Cycle</em></strong>, 2019</div>
+          <div class="links">
+          <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/31594448/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
 </ol>
 </div>
