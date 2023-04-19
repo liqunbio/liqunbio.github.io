@@ -11,7 +11,7 @@
           </div>
         
           <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-            <div class="title"><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02894-0" target="_blank">Large-scale analysis of <i>de novo</i> mutations identifies risk genes f or f emale inf ertility characterized by oocyte and early embryo defects</a></div>
+            <div class="title"><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02894-0" target="_blank">Large-scale analysis of <i>de novo</i> mutations identifies risk genes for female infertility characterized by oocyte and early embryo defects</a></div>
             <div class="author"><strong>Qun Li</strong>#, Zhao L#, Zeng Y#, Kuang Y#, Guan Y#, Chen B#, Xu S, Tang B, Wu L, Mao X, Sun X, Shi J, Xu P, Diao F, Xue S, Bao S, Meng  Q, Yuan P, Wang W, Ma N, Song D, Xu B, Dong J, Mu J, Zhang Z, Fan H, Gu H, Li Q, He L, Jin L, Wang L*, Sang Q*</div>
             <div class="periodical"><strong><em>Genome Biology</em></strong>, 2023</div>
             <div class="links">
