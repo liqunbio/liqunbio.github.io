@@ -87,7 +87,7 @@
     <li>
       <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-          <img src="assets/img/2021_MO_spermotogenesis.png" class="teaser img-fluid z-depth-1">
+          <img src="assets/img/2020_MO_spermotogenesis.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">Molecular Omics</abbr>
       </div>
       
@@ -138,6 +138,46 @@
           <div class="links">
           <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           <a href="https://pubmed.ncbi.nlm.nih.gov/36647821/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2020_FOB_RNAEditing.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">FEBS Open Bio</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="">Pig-specific RNA editing during early embryo development revealed by genome-wide comparisons</a></div>
+          <div class="author">Li T#, <strong>Li Q</strong>, Li H, Xiao X, Ahmad Warraich D, Zhang N, Chen Z, Hou J, Liu T, Weng X, Liu Z, Hua J*, Liao M*</div>
+          <div class="periodical"><strong><em>FEBS Open Bio</em></strong>, 2020</div>
+          <div class="links">
+          <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/32433824/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2020_MO_Enhancer.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">Molecular Omics</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="">Enhancer recognition and prediction during spermatogenesis based on deep convolutional neural networks</a></div>
+          <div class="author">Sun C#, Zhang N, Yu P, Wu X, <strong>Li Q</strong>, Li T, Li H, Xiao X, Shalmani A, Li L, Che D, Wang X, Zhang P, Chen Z, Liu T, Zhao J, Hua J*, Liao M*.</div>
+          <div class="periodical"><strong><em>Molecular Omics</em></strong>, 2020</div>
+          <div class="links">
+          <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/32568326/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
           <strong><i style="color:#e74d3c">Article</i></strong>
           </div>
       </div>
