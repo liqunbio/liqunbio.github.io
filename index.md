@@ -18,7 +18,7 @@ Major: Bioinformatics
 - 2014.09 - 2018.07 <br>
 B.S., Advised by Prof. Mingzhi Liao <br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
-Major: Bio tech no logy
+Major: Biotechnology
 
 ## Research Interests
 
