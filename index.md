@@ -10,7 +10,14 @@ Qun Li is a Ph.D. student at Human Reproduction and Genetics Research Group (PI:
 - 2020.09 – 2023.07 Ph.D., Advised by Prof. Lei Wang <br>
 **Institutes of Biomedical Sciences, Fudan University, China** <br>
 Major: Biochemistry and Molecular Biology
-
+<br>
+- 2018.09 - 2020.06 M.S., Advised by Prof. Mingzhi Liao <br>
+**College of Life Sciences, Northwest A & F University, China** <br>
+Major: Bioinformatics
+<br>
+2014.09 - 2018.07 B.S., Advised by Prof. Mingzhi Liao <br>
+**College of Innovation and Experiment, Northwest A & F University, China** <br>
+Major: Bio tech no logy
 
 ## Research Interests
 
