@@ -7,8 +7,8 @@ layout: homepage
 Qun Li is a Ph.D. student at Human Reproduction and Genetics Research Group (PI: [Prof. Lei Wang](https://reprod-genet.fudan.edu.cn/ed/b3/c23195a454067/page.htm))
 
 ## Education
-- 2020.09 – 2023.07    Ph.D., Advised by Prof. Lei Wang
-Institutes of Biomedical Sciences, Fudan University, C hi n a
+- 2020.09 – 2023.07    Ph.D., Advised by Prof. Lei Wang <br>
+**Institutes of Biomedical Sciences, Fudan University, China**
 
 
 ## Research Interests
