@@ -103,5 +103,45 @@
       </div>
       </div>
     </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2023_HG_ADGB.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">Human Genetics</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="">ADGB variants cause asthenozoospermia and male infertility</a></div>
+          <div class="author">Qu R#, Zhang Z#, Wu L#, <strong>Li Q</strong>, Mu J, Zhao L, Yan Z, Wang W, Zeng Y, Liu R, Dong J, Li Q, Sun X, Wang L, Sang Q*, Chen B*, Kuang Y*</div>
+          <div class="periodical"><strong><em>Human Genetics</em></strong>, 2023</div>
+          <div class="links">
+          <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/36995441/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2023_JCI_KPNA7.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">Journal of Clinical Investigation</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="">Karyopherin α deficiency contributes to human preimplantation embryo arrest</a></div>
+          <div class="author">Wang W#, Miyamoto Y#, Chen B#, Shi J#, Diao F#, Zheng W#, <strong>Li Q</strong>, Yu L, Li L, Xu Y, Wu L, Mao X, Fu J, Li B, Yan Z, Shi R, Xue X, Mu J, Zhang Z, Wu T, Zhao L, Wang W, Zhou Z, Dong J, Li Q, Jin L, He L, Sun X, Lin G, Kuang Y*, Wang L* and Sang Q*</div>
+          <div class="periodical"><strong><em>Journal of Clinical Investigation</em></strong>, 2023</div>
+          <div class="links">
+          <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/36647821/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
 </ol>
 </div>
