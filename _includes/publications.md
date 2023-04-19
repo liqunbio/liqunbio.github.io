@@ -11,14 +11,13 @@
         
           <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><a href="">Large-scale analysis of <i>de novo</i> mutations identifies risk genes f or f emale inf ertility characterized by oocyte and early embryo defects</a></div>
-            <div class="author"><strong>Qun Li</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-            <div class="periodical"><em>Genome Biology <strong>GB</strong>, 2023.</em></div>
+            <div class="author"><strong>Qun Li</strong>, Zhao L, Zeng Y, Kuang Y, Guan Y, Chen B, Xu S, Tang B, Wu L, Mao X, Sun X, Shi J, Xu P, Diao F, Xue S, Bao S, Meng  Q, Yuan P, Wang W, Ma N, Song D, Xu B, Dong J, Mu J, Zhang Z, Fan H, Gu H, Li Q, He L, Jin L, Wang L*, Sang Q*</div>
+            <div class="periodical"><em>Genome Biology</em> 2023</div>
             <div class="links">
-              <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-              <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-              <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-              <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-              <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+              <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+              <a href="https://github.com/QunATCG/DenovoMut" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+              <a href="https://pubmed.ncbi.nlm.nih.gov/37024973/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+              <strong><i style="color:#e74d3c">Article</i></strong>
             </div>
           </div>
         </div>
