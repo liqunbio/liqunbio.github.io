@@ -19,8 +19,9 @@ Major: Bio tech no logy
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+**Human Genetics** | **Embryonic development** | **Oocyte maturation** | **Gene Mutation** | **Genetic heterogeneity** | **Expression Regulation**
+
+***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.***
 
 ## News
 
