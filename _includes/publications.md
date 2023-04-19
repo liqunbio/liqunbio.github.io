@@ -167,13 +167,33 @@
     <li>
       <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2021_BIB_FifBase.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">Briefings in Bioinformatics</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="">FifBase: a comprehensive fertility-associated indicators factor database for domestic animals</a></div>
+          <div class="author">Li H#, Hou J, Chen Z, Zeng J, Ni Y, Li Y, Xiao X, Zhou Y, Zhang N, Long D, Liu H, Yang L, Bai X, <strong>Li Q</strong>, Li T, Che D, Li L, Wang X, Zhang P, Liao M*</div>
+          <div class="periodical"><strong><em>Briefings in Bioinformatics</em></strong>, 2020</div>
+          <div class="links">
+          <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/33497436/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/2020_MO_Enhancer.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">Molecular Omics</abbr>
       </div>
       
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="">Enhancer recognition and prediction during spermatogenesis based on deep convolutional neural networks</a></div>
-          <div class="author">Sun C#, Zhang N, Yu P, Wu X, <strong>Li Q</strong>, Li T, Li H, Xiao X, Shalmani A, Li L, Che D, Wang X, Zhang P, Chen Z, Liu T, Zhao J, Hua J*, Liao M*.</div>
+          <div class="author">Sun C#, Zhang N, Yu P, Wu X, <strong>Li Q</strong>, Li T, Li H, Xiao X, Shalmani A, Li L, Che D, Wang X, Zhang P, Chen Z, Liu T, Zhao J, Hua J*, Liao M*</div>
           <div class="periodical"><strong><em>Molecular Omics</em></strong>, 2020</div>
           <div class="links">
           <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -193,8 +213,28 @@
       
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href=""> Landscape of RNA editing reveals new insights into the dynamic gene regulation of spermatogenesis</a></div>
-          <div class="author">Wang X#, Wu X, Zhu Z, Li H, Li T, <strong>Li Q</strong>, Zhang P, Li L, Che D, Xiao X, Liu T, Hua J*, Liao M*.</div>
+          <div class="author">Wang X#, Wu X, Zhu Z, Li H, Li T, <strong>Li Q</strong>, Zhang P, Li L, Che D, Xiao X, Liu T, Hua J*, Liao M*</div>
           <div class="periodical"><strong><em>Cell Cycle</em></strong>, 2019</div>
+          <div class="links">
+          <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/31594448/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2018_BBRC_micRNAEditing.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">BBRC</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href=""> miRNA editing landscape reveals miR-34c regulated spermatogenesis through structure and target change in pig and mouse</a></div>
+          <div class="author">Wang X#, Zhang P, Li L, Che D, Li T, Li H, <strong>Li Q</strong>, Jia H, Tao S, Hua J*, Zeng W*, Liao M*</div>
+          <div class="periodical"><strong><em>Biochemical and Biophysical Research Communications</em></strong>, 2018</div>
           <div class="links">
           <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           <a href="https://pubmed.ncbi.nlm.nih.gov/31594448/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
