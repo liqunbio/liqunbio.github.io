@@ -1,6 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+<p> # co-first author; * corresponding author </p>
 <ol class="bibliography">
     <li>
         <div class="pub-row">
@@ -11,7 +12,7 @@
         
           <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
             <div class="title"><a href="">Large-scale analysis of <i>de novo</i> mutations identifies risk genes f or f emale inf ertility characterized by oocyte and early embryo defects</a></div>
-            <div class="author"><strong>Qun Li</strong>, Zhao L, Zeng Y, Kuang Y, Guan Y, Chen B, Xu S, Tang B, Wu L, Mao X, Sun X, Shi J, Xu P, Diao F, Xue S, Bao S, Meng  Q, Yuan P, Wang W, Ma N, Song D, Xu B, Dong J, Mu J, Zhang Z, Fan H, Gu H, Li Q, He L, Jin L, Wang L*, Sang Q*</div>
+            <div class="author"><strong>Qun Li</strong>#, Zhao L#, Zeng Y#, Kuang Y#, Guan Y#, Chen B#, Xu S, Tang B, Wu L, Mao X, Sun X, Shi J, Xu P, Diao F, Xue S, Bao S, Meng  Q, Yuan P, Wang W, Ma N, Song D, Xu B, Dong J, Mu J, Zhang Z, Fan H, Gu H, Li Q, He L, Jin L, Wang L*, Sang Q*</div>
             <div class="periodical"><em>Genome Biology</em> 2023</div>
             <div class="links">
               <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -27,7 +28,7 @@
         <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">CVPR</abbr>
+            <abbr class="badge">EMBO Molecular Medicine</abbr>
         </div>
         
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
