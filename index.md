@@ -22,12 +22,12 @@ Major: Biotechnology
 
 ## Research Interests
 
-Human Genetics 
-Embryonic development
-Oocyte maturation  
-Gene Mutation  
-Genetic heterogeneity 
-Expression Regulation
+Human Genetics <br>
+Embryonic development <br>
+Oocyte maturation <br>
+Gene Mutation <br>
+Genetic heterogeneity <br>
+Expression Regulation <br>
 
 ***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.***
 
