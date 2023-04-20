@@ -1,4 +1,5 @@
-
+<div class="publications">
+<ol class="bibliography">
 <br>
     <li>
       <div class="pub-row">
@@ -139,3 +140,5 @@
       </div>
       </div>
     </li>
+</ol>
+</div>
