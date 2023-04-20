@@ -1,7 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
-<p> # These authors contributed to this work equally; <br> * Corresponding author </p>
+<p> # These authors contributed to this work equally <br> * Corresponding author </p>
 <ol class="bibliography">
     <li>
         <div class="pub-row">
