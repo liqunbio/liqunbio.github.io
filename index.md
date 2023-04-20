@@ -37,5 +37,7 @@ Expression Regulation <br>
 {% include_relative _includes/services.md %}
 
 ## Honors and Awards
-
-- 2017.09 - 2020.06 Master Academic Studentship Award (3yr Funding Grant)
+- 2020.09 - 2023.06 <br> 
+Academic Studentship Award (3yr Funding Grant, Fudan University)
+- 2017.09 - 2020.06 <br> 
+Academic Studentship Award (3yr Funding Grant, Northwest A & F University)
