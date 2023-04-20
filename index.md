@@ -33,7 +33,7 @@ Expression Regulation <br>
 
 
 {% include_relative _includes/publicationsA.md %}
-
+{% include_relative _includes/publicationsB.md %}
 {% include_relative _includes/services.md %}
 
 ## Honors and Awards
