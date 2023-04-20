@@ -37,7 +37,7 @@ Expression Regulation <br>
 {% include_relative _includes/services.md %}
 
 ## Honors and Awards
-- 2023.04
+- 2023.04 <br>
 Outstanding Graduate of Fudan University.
 - 2020.09 - 2023.06 <br> 
 Academic Studentship Award (3yr Funding Grant, Fudan University)
