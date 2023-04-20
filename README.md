@@ -4,7 +4,7 @@ This work is licensed under a [Creative Commons Zero v1.0 Universal](https://git
 
 ## Acknowledgements
 
-Our project uses the source code from the following repositories:
+This work uses the source code from the following repositories:
 
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
