@@ -32,7 +32,7 @@ Expression Regulation <br>
 ***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.***
 
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publicationsA.md %}
 
 {% include_relative _includes/services.md %}
 
