@@ -35,3 +35,7 @@ Expression Regulation <br>
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Honors and Awards
+
+- 2017.09 - 2020.06 Master Academic Studentship Award (3yr Funding Grant)
