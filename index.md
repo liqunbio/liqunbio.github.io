@@ -22,14 +22,14 @@ Major: Biotechnology
 
 ## Research Interests
 
+***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.***
 Human Genetics <br>
 Embryonic development <br>
 Oocyte maturation <br>
-Gene Mutation <br>
 Genetic heterogeneity <br>
 Expression Regulation <br>
 
-***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.***
+
 
 
 {% include_relative _includes/publicationsA.md %}
