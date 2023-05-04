@@ -20,6 +20,10 @@ B.S., Advised by Prof. Mingzhi Liao <br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
 Major: Biotechnology
 
+## Programming
+R <br>
+Python <br>
+
 ## Research Interests
 
 ***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.***
