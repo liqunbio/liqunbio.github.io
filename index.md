@@ -6,6 +6,16 @@ layout: homepage
 
 Qun Li is a Ph.D. student at Human Reproduction and Genetics Research Group (PI: [Prof. Lei Wang](https://reprod-genet.fudan.edu.cn/ed/b3/c23195a454067/page.htm))
 
+## Research Interests
+
+***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.*** <br>
+Genetics <br>
+Genomics <br>
+Embryonic development <br>
+Oocyte maturation <br>
+Genetic heterogeneity <br>
+Expression Regulation <br>
+
 ## Education
 - 2020.09 – 2023.07 <br>
 Ph.D., Advised by Prof. Lei Wang <br>
@@ -21,23 +31,9 @@ B.S., Advised by Prof. Mingzhi Liao <br>
 Major: Biotechnology
 
 ## Programming
-R <br>
-Python <br>
-PHP <br>
-MySQL <br>
+R, Python, PHP and MySQL <br>
 GitHub: https://github.com/QunATCG <br>
 SAAS: https://saas.liaolab.net/ <br>
-
-## Research Interests
-
-***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.***
-Human Genetics <br>
-Embryonic development <br>
-Oocyte maturation <br>
-Genetic heterogeneity <br>
-Expression Regulation <br>
-
-
 
 
 {% include_relative _includes/publicationsA.md %}
