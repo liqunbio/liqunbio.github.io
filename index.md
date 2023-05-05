@@ -10,7 +10,7 @@ Date of Birth: August 1995
 
 Tel: (+86)183-9205-0299   
 
-Email: leequn@nwsuaf.edu.cn
+Email: liqunfudan@gmail.com
 
 ## Research Interests
 
