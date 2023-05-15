@@ -11,7 +11,7 @@ Email: liqunfudan@gmail.com <br>
 
 ## Research Interests
 
-***The overall interest of mine is to understand genetic and epigenetic mechanisms related to disease processes using omics methods.*** <br>
+***The overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods.*** <br>
 Genetics <br>
 Genomics <br>
 Embryonic development <br>
