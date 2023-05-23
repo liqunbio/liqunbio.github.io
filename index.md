@@ -28,7 +28,12 @@ B.S., Advised by Prof. Mingzhi Liao <br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
 Major: Biotechnology
 
-## Programming
+## Skill
+### Dry
+RNA-seq (Bulk/Single Cell), ATAC-seq, Chip-seq, WES/WGS
+### Wet
+Plasmid construction and in vitro transcription
+### Programming
 R, Python, PHP and MySQL <br>
 GitHub: https://github.com/QunATCG <br>
 SAAS: https://saas.liaolab.net/ <br>
