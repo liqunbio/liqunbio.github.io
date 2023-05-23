@@ -14,10 +14,6 @@ Email: liqunfudan@gmail.com <br>
 ***The overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods.*** <br>
 Genetics <br>
 Genomics <br>
-Embryonic development <br>
-Oocyte maturation <br>
-Genetic heterogeneity <br>
-Expression Regulation <br>
 
 ## Education
 - 2020.09 – 2023.07 <br>
