@@ -29,11 +29,11 @@ B.S., Advised by Prof. Mingzhi Liao <br>
 Major: Biotechnology
 
 ## Skill
-### Dry
+#### Dry
 RNA-seq (Bulk/Single Cell), ATAC-seq, Chip-seq, WES/WGS
-### Wet
+#### Wet
 Plasmid construction and in vitro transcription
-### Programming
+#### Programming
 R, Python, PHP and MySQL <br>
 GitHub: https://github.com/QunATCG <br>
 SAAS: https://saas.liaolab.net/ <br>
