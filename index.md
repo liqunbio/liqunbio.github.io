@@ -30,9 +30,9 @@ Major: Biotechnology
 
 ## Skill
 **Dry** <br>
-RNA-seq (Bulk/Single Cell), ATAC-seq, Chip-seq, WES/WGS
+RNA-seq (Bulk/Single Cell), ATAC-seq, Chip-seq, WES/WGS <br>
 **Wet** <br>
-Plasmid construction and in vitro transcription
+Plasmid construction and in vitro transcription <br>
 **Programming** <br>
 R, Python, PHP and MySQL <br>
 GitHub: https://github.com/QunATCG <br>
