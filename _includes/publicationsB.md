@@ -5,6 +5,26 @@
       <div class="pub-row">
       <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           <img src="assets/img/2023_HG_ADGB.png" class="teaser img-fluid z-depth-1">
+          <abbr class="badge">Development</abbr>
+      </div>
+      
+      <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="https://journals.biologists.com/dev/article-abstract/150/12/dev201572/316687/PATL2-regulates-mRNA-homeostasis-in-oocytes-by?redirectedFrom=fulltext" target="_blank">PATL2 regulates mRNA homeostasis in oocytes by interacting with EIF4E and CPEB1</a></div>
+          <div class="author">Zhang Z#, Liu R#, Zhou H#, <strong>Li Q</strong>, Qu R, Wang W, Zhou Z, Yu R, Zeng Y, Mu J, Chen B, Guo X*, Sang Q*, Wang L*.</div>
+          <div class="periodical"><strong><em>Development</em></strong>, 2023</div>
+          <div class="links">
+          <!--<a href="assets/publication/2023_HG_ADGB.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
+          <a href="https://pubmed.ncbi.nlm.nih.gov/37218508/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <strong><i style="color:#e74d3c">Article</i></strong>
+          </div>
+      </div>
+      </div>
+    </li>
+<br>
+    <li>
+      <div class="pub-row">
+      <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="assets/img/2023_HG_ADGB.png" class="teaser img-fluid z-depth-1">
           <abbr class="badge">Human Genetics</abbr>
       </div>
       
