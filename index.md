@@ -6,7 +6,6 @@ layout: homepage
 
 Qun Li is a Ph.D. student at Human Reproduction and Genetics Research Group (PI: [Prof. Lei Wang](https://reprod-genet.fudan.edu.cn/ed/b3/c23195a454067/page.htm)) <br>
 Date of Birth: August 1995 <br>
-Tel: (+86)183-9205-0299   <br>
 Email: liqunfudan@gmail.com <br>
 
 ## Research Interests
