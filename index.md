@@ -27,16 +27,6 @@ B.S., Advised by Prof. Mingzhi Liao <br>
 Major: Biotechnology
 - Date of Birth: August 1995 <br>
 
-## Skill
-**Dry** <br>
-RNA-seq (Bulk/Single Cell), ATAC-seq, Chip-seq, WES/WGS <br>
-**Wet** <br>
-Plasmid construction and in vitro transcription <br>
-**Programming** <br>
-R, Python, PHP and MySQL <br>
-GitHub: https://github.com/QunATCG <br>
-
-
 {% include_relative _includes/publicationsA.md %}
 {% include_relative _includes/publicationsB.md %}
 {% include_relative _includes/services.md %}
