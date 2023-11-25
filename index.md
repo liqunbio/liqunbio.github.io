@@ -25,7 +25,8 @@ Major: Bioinformatics
 B.S., Advised by Prof. Mingzhi Liao <br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
 Major: Biotechnology
-- Date of Birth: August 1995 <br>
+- 1995.08 <br>
+Born in China 🐣🐣 <br>
 
 {% include_relative _includes/publicationsA.md %}
 {% include_relative _includes/publicationsB.md %}
