@@ -26,7 +26,7 @@ B.S., Advised by Prof. Mingzhi Liao <br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
 Major: Biotechnology
 - 1995.08 <br>
-Born in China 🐣🐣 <br>
+Born in China 🐣🐣 
 
 
 {% include_relative _includes/publicationsA.md %}
