@@ -15,7 +15,7 @@ liqun95@163.com | qun.li@ki.se | qunli20@fudan.edu.cn | leequn@nwsuaf.edu.cn
 - 2023.11 - Present <br>
 Post-Doc., Trainning in Claudia Kutter Group <br>
 **MTC, Karolinska Institutet, Sweden** <br>
-Major: Transcript and Translation
+Major: Transcription and Translation
 - 2020.09 – 2023.07 <br>
 Ph.D., Advised by Prof. Lei Wang and Prof. Qing Sang<br>
 **Institutes of Biomedical Sciences, Fudan University, China** <br>
