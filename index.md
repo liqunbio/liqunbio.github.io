@@ -6,7 +6,7 @@ layout: homepage
 
 Qun Li is a Postdoctoral Associate at **[MTC](https://ki.se/mtc) (PI: [Dr. Claudia Kutter](https://www.scilifelab.se/researchers/claudia-kutter/)), [Karolinska Institutet](https://ki.se/)**. <br>
 Qun's overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods (**Genetics & Genomics**). <br>
-Before joining Karolinska Institutet, he completed his doctoral training at **[Human Reproduction and Genetics Research Group](https://reprod-genet.fudan.edu.cn/) (PI: [Dr. Lei Wang](https://reprod-genet.fudan.edu.cn/laben/c5/0f/c23194a247055/page.htm)** and **[Dr. Qing Sang](https://reprod-genet.fudan.edu.cn/laben/c5/10/c23194a247056/page.htm)**), **[Fudan University](https://www.fudan.edu.cn/)** and his master's training at **[college of Life Sciences](https://sm.nwafu.edu.cn/index.htm) (PI: [Dr. Mingzhi Liao](https://sm.nwafu.edu.cn/szdw/js2/389648.htm)), [Northwest A & F University](https://www.nwsuaf.edu.cn/)** <br>
+Before joining Karolinska Institutet, he completed his doctoral training at **[Human Reproduction and Genetics Research Group](https://reprod-genet.fudan.edu.cn/) (PI: [Dr. Lei Wang](https://reprod-genet.fudan.edu.cn/laben/c5/0f/c23194a247055/page.htm)** and **[Dr. Qing Sang](https://reprod-genet.fudan.edu.cn/laben/c5/10/c23194a247056/page.htm)**), **[Fudan University](https://www.fudan.edu.cn/)** and his master's training at **[College of Life Sciences](https://sm.nwafu.edu.cn/index.htm) (PI: [Dr. Mingzhi Liao](https://sm.nwafu.edu.cn/szdw/js2/389648.htm)), [Northwest A & F University](https://www.nwsuaf.edu.cn/)** <br>
 
 Date of Birth: August 1995 <br>
 
