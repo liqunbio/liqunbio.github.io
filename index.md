@@ -15,7 +15,7 @@ Genetics & Genomics
 
 ## Education
 - 2023.11 - Present <br>
-Post-Doc., Trainning in Claudia Kutter Group
+Post-Doc., Trainning in Claudia Kutter Group <br>
 **MTC, Karolinska Institutet, Sweden** <br>
 Major: Transcript and Translation
 - 2020.09 – 2023.07 <br>
