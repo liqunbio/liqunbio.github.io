@@ -13,7 +13,7 @@ liqun95@163.com | qun.li@ki.se | qunli20@fudan.edu.cn | leequn@nwsuaf.edu.cn
 
 ## Education
 - 2023.11 - Present <br>
-Post-Doc., Trainning in Claudia Kutter Group <br>
+Post-Doc., Training in Claudia Kutter Group <br>
 **MTC, Karolinska Institutet, Sweden** <br>
 Major: Transcription and Translation
 - 2020.09 – 2023.07 <br>
