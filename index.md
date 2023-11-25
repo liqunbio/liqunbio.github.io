@@ -4,14 +4,12 @@ layout: homepage
 
 ## About Me
 
-Qun Li is a Ph.D. student at Human Reproduction and Genetics Research Group (PI: [Prof. Lei Wang](https://reprod-genet.fudan.edu.cn/ed/b3/c23195a454067/page.htm)) <br>
+Qun Li is a Postdoctoral Associate at MTC, Karolinska Institutet (PI: [Dr. Claudia Kutter](https://www.scilifelab.se/researchers/claudia-kutter/)). <br>
+Qun's work interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods (Genetics & Genomics ).
+Before joint Karolinska Institutet, he completed his doctoral training at Fudan University at
+Human Reproduction and Genetics Research Group (PI: [Dr. Lei Wang](https://reprod-genet.fudan.edu.cn/ed/b3/c23195a454067/page.htm)) <br>
 Date of Birth: August 1995 <br>
-Email: liqunfudan@gmail.com <br>
-
-## Research Interests
-
-***The overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods.*** <br>
-Genetics & Genomics 
+Email: liqun95@163.com | qun.li@ki.se | 20111510021@fudan.edu.cn <br>
 
 ## Education
 - 2023.11 - Present <br>
@@ -39,7 +37,6 @@ Plasmid construction and in vitro transcription <br>
 **Programming** <br>
 R, Python, PHP and MySQL <br>
 GitHub: https://github.com/QunATCG <br>
-SAAS: https://saas.liaolab.net/ <br>
 
 
 {% include_relative _includes/publicationsA.md %}
