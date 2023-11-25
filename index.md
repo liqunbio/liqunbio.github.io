@@ -14,6 +14,10 @@ Email: liqunfudan@gmail.com <br>
 Genetics & Genomics 
 
 ## Education
+- 2023.11 - Present <br>
+Post-Doc., Trainning in Claudia Kutter Group
+**MTC, Karolinska Institutet, Sweden** <br>
+Major: Transcript and Translation
 - 2020.09 – 2023.07 <br>
 Ph.D., Advised by Prof. Lei Wang <br>
 **Institutes of Biomedical Sciences, Fudan University, China** <br>
