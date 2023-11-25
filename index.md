@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Qun Li is a Postdoctoral Associate at **[MTC](https://ki.se/mtc)** ** (PI: [Dr. Claudia Kutter](https://www.scilifelab.se/researchers/claudia-kutter/))**, **[Karolinska Institutet](https://ki.se/)**. <br>
+Qun Li is a Postdoctoral Associate at **[MTC](https://ki.se/mtc) (PI: [Dr. Claudia Kutter](https://www.scilifelab.se/researchers/claudia-kutter/))**, **[Karolinska Institutet](https://ki.se/)**. <br>
 Qun's overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods (**Genetics & Genomics**).
 Before joining Karolinska Institutet, he completed his doctoral training at **Human Reproduction and Genetics Research Group (PI: [Dr. Lei Wang](https://reprod-genet.fudan.edu.cn/))**, **[Fudan University](https://www.fudan.edu.cn/)** <br>
 Date of Birth: August 1995 <br>
