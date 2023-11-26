@@ -11,7 +11,7 @@
       
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="https://journals.biologists.com/dev/article-abstract/doi/10.1242/dev.201959" target="_blank">ARRDC5 deficiency impairs spermatogenesis by affecting SUN5 and NDC1</a></div>
-          <div class="author">Liu R#, Qu R#, **Li Q**, Chen B, Mu J, Zeng Y, Luo Y, Xu F, Wang L*, Zhang Z*, Sang Q*.</div>
+          <div class="author">Liu R#, Qu R#, <strong>Li Q</strong>, Chen B, Mu J, Zeng Y, Luo Y, Xu F, Wang L*, Zhang Z*, Sang Q*.</div>
           <div class="periodical"><strong><em>Development</em></strong>, 2023</div>
           <div class="links">
           <!--<a href="assets/publication/2023_HG_ADGB.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
