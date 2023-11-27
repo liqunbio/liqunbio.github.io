@@ -11,7 +11,7 @@ Qun's overall interest is to understand genetic and epigenetic mechanisms relate
 Before joining Karolinska Institutet, he completed his doctoral training at [**HRGR**](https://reprod-genet.fudan.edu.cn/) (Human Reproduction and Genetics Research Group) (**PI: [Dr. Lei Wang](https://reprod-genet.fudan.edu.cn/laben/c5/0f/c23194a247055/page.htm)** and **[Dr. Qing Sang](https://reprod-genet.fudan.edu.cn/laben/c5/10/c23194a247056/page.htm)**), **[Fudan University](https://www.fudan.edu.cn/)** and his master's training at **[College of Life Sciences](https://sm.nwafu.edu.cn/index.htm)** (**PI: [Dr. Mingzhi Liao](https://sm.nwafu.edu.cn/szdw/js2/389648.htm)**), **[Northwest A & F University](https://www.nwsuaf.edu.cn/)**. <br>
 
 ## Contact
-liqun95@163.com | qun.li@ki.se | qunli20@fudan.edu.cn | leequn@nwsuaf.edu.cn
+[liqun95@163.com](mailto:liqun95@163.com) | [qun.li@ki.se](mailto:qun.li@ki.se) | [qunli20@fudan.edu.cn](mailto:qunli20@fudan.edu.cn) | [leequn@nwsuaf.edu.cn](mailto:leequn@nwsuaf.edu.cn)
 
 ## Education
 - 2023.11 - Present <br>
