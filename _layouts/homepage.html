@@ -59,8 +59,8 @@
         <email>{{ site.email_AS }}</email>
         {% endif %}
 
-        {% if site.ORCID %}
-        <email>{{ site.ORCID }}</email>
+        {% if site.ORCID_Link %}
+        <a href="{{ site.ORCID_Link }}" rel="noopener"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> <autocolor>{{ site.ORCID }}</autocolor></a>
         {% endif %}
         
         <br>
