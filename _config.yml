@@ -14,8 +14,8 @@ ORCID_Link: https://orcid.org/0000-0002-4734-712X
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Qun Li
-description: Bioinformatics, rare and common diseases
-canonical: https://liqunbio.github.io/
+description: Bioinformatics, rare and common variants of diseases, transcription and translation.
+canonical: https://liqun.site
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
