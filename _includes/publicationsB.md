@@ -164,7 +164,11 @@
       </div>
       
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/15384101.2019.1676584" target="_blank"> Landscape of RNA editing reveals new insights into the dynamic gene regulation of spermatogenesis</a></div>
+          <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/15384101.2019.1676584
+        
+        
+        
+        " target="_blank"> Landscape of RNA editing reveals new insights into the dynamic gene regulation of spermatogenesis</a></div>
           <div class="author">Wang X#, Wu X, Zhu Z, Li H, Li T, <strong>Li Q</strong>, Zhang P, Li L, Che D, Xiao X, Liu T, Hua J*, Liao M*</div>
           <div class="periodical"><strong><em>Cell Cycle</em></strong>, 2019</div>
           <div class="links">
@@ -189,7 +193,7 @@
           <div class="periodical"><strong><em>Biochemical and Biophysical Research Communications</em></strong>, 2018</div>
           <div class="links">
           <a href="assets/publication/2018_BBRC_micRNAEditing.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-          <a href="https://pubmed.ncbi.nlm.nih.gov/31594448/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
+          <a href="https://pubmed.ncbi.nlm.nih.gov/29864426/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
           <strong><i style="color:#e74d3c">Article</i></strong>
           </div>
       </div>
