@@ -15,19 +15,19 @@ Before joining Karolinska Institutet, he completed his doctoral training at [**H
 
 ## Education
 - 2023.11 - Present <br>
-Post-Doc., Training in Claudia Kutter Group <br>
+Post-Doc., Training in Dr. Claudia Kutter Group <br>
 **MTC, Karolinska Institutet, Sweden** <br>
 Major: Transcription and Translation
 - 2020.09 – 2023.07 <br>
-Ph.D., Advised by Prof. Lei Wang and Prof. Qing Sang<br>
+Ph.D., Advised by Dr. Lei Wang and Dr. Qing Sang<br>
 **Institutes of Biomedical Sciences, Fudan University, China** <br>
 Major: Biochemistry and Molecular Biology
 - 2018.09 - 2020.06 <br>
-M.S., Advised by Prof. Mingzhi Liao <br>
+M.S., Advised by Dr. Mingzhi Liao <br>
 **College of Life Sciences, Northwest A & F University, China** <br>
 Major: Bioinformatics
 - 2014.09 - 2018.07 <br>
-B.S., Advised by Prof. Mingzhi Liao <br>
+B.S., Advised by Dr. Mingzhi Liao <br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
 Major: Biotechnology
 - 1995.08 <br>
