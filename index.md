@@ -39,9 +39,7 @@ Born in China 🐣🐣
 {% include_relative _includes/services.md %}
 
 ## Code
-[Github](https://github.com/QunATCG)
-
-[Gitee](https://gitee.com/qunatcg)
+[Github](https://github.com/QunATCG) | [Gitee](https://gitee.com/qunatcg)
 
 ## Honors and Awards
 - 2023.04 <br>
