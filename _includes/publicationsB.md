@@ -10,11 +10,13 @@
       </div>
       
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://journals.biologists.com/dev/article-abstract/doi/10.1242/dev.201959" target="_blank">ARRDC5 deficiency impairs spermatogenesis by affecting SUN5 and NDC1</a></div>
+          <div class="title"><a href="https://journals.biologists.com/dev/article-abstract/doi/10.1242/dev.201959
+        
+        " target="_blank">ARRDC5 deficiency impairs spermatogenesis by affecting SUN5 and NDC1</a></div>
           <div class="author">Liu R#, Qu R#, <strong>Li Q</strong>, Chen B, Mu J, Zeng Y, Luo Y, Xu F, Wang L*, Zhang Z*, Sang Q*.</div>
           <div class="periodical"><strong><em>Development</em></strong>, 2023</div>
           <div class="links">
-          <!--<a href="assets/publication/2023_HG_ADGB.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
+          <a href="assets/publication/2023_Dev_ARRDC5.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           <a href="https://pubmed.ncbi.nlm.nih.gov/37997706/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
           <strong><i style="color:#e74d3c">Article</i></strong>
           </div>
@@ -43,7 +45,7 @@
           <div class="author">Zhang Z#, Liu R#, Zhou H#, <strong>Li Q</strong>, Qu R, Wang W, Zhou Z, Yu R, Zeng Y, Mu J, Chen B, Guo X*, Sang Q*, Wang L*.</div>
           <div class="periodical"><strong><em>Development</em></strong>, 2023</div>
           <div class="links">
-          <!--<a href="assets/publication/2023_HG_ADGB.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>-->
+          <a href="assets/publication/2023_Dev_PATL2.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
           <a href="https://pubmed.ncbi.nlm.nih.gov/37218508/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PubMed</a>
           <strong><i style="color:#e74d3c">Article</i></strong>
           </div>
@@ -61,6 +63,8 @@
       
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title"><a href="https://link.springer.com/article/10.1007/s00439-023-02546-0
+        
+        
         
         
         
