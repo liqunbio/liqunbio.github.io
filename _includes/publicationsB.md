@@ -28,8 +28,6 @@
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
                <div class="title"><a href="https://journals.biologists.com/dev/article-abstract/doi/10.1242/dev.201959
-        
-        
                   " target="_blank">ARRDC5 deficiency impairs spermatogenesis by affecting SUN5 and NDC1</a></div>
                <div class="author">Liu R#, Qu R#, <strong>Li Q</strong>, Chen B, Mu J, Zeng Y, Luo Y, Xu F, Wang L*, Zhang Z*, Sang Q*.</div>
                <div class="periodical"><strong><em>Development</em></strong>, 2023</div>
@@ -69,8 +67,6 @@
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
                <div class="title"><a href="https://link.springer.com/article/10.1007/s00439-023-02546-0
-        
-        
                   " target="_blank">ADGB variants cause asthenozoospermia and male infertility</a></div>
                <div class="author">Qu R#, Zhang Z#, Wu L#, <strong>Li Q</strong>, Mu J, Zhao L, Yan Z, Wang W, Zeng Y, Liu R, Dong J, Li Q, Sun X, Wang L, Sang Q*, Chen B*, Kuang Y*</div>
                <div class="periodical"><strong><em>Human Genetics</em></strong>, 2023</div>
