@@ -8,9 +8,7 @@
                <abbr class="badge">Cell. Mol. Life Sci</abbr>
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-               <div class="title"><a href="https://link.springer.com/article/10.1007/s00018-024-05184-5
-        
-        " target="_blank">CCDC28A deficiency causes sperm head defects, reduced sperm motility and male infertility in mice</a></div>
+               <div class="title"><a href="https://link.springer.com/article/10.1007/s00018-024-05184-5" target="_blank">CCDC28A deficiency causes sperm head defects, reduced sperm motility and male infertility in mice</a></div>
                <div class="author">Zhou H#, Zhang Z#, Qu R, Zhu H, Luo Y, <strong>Li Q</strong>, Mu J, Yu R, Zeng Y, Chen B, Sang Q*, Wang L*.</div>
                <div class="periodical"><strong><em>Cell. Mol. Life Sci</em></strong>, 2023</div>
                <div class="links">
