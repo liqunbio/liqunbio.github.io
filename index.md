@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Qun Li is a Postdoctoral Associate at [**MTC**](https://ki.se/mtc) (Department of Microbiology, tumor and cell biology) (**PI: [Dr. Claudia Kutter](https://ki.se/en/research/groups/regulatory-transcriptomics-kutter-group)**), **[Karolinska Institutet](https://ki.se/)**. <br>
+Qun Li is a Postdoctoral Researcher at [**MTC**](https://ki.se/mtc) (Department of Microbiology, tumor and cell biology) (**PI: [Dr. Claudia Kutter](https://ki.se/en/research/groups/regulatory-transcriptomics-kutter-group)**), **[Karolinska Institutet](https://ki.se/)**. <br>
 <br>
 Qun's overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods (**Genetics & Genomics**). <br>
 <br>
