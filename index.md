@@ -32,7 +32,7 @@ Major: Biotechnology
 Born in China 🐣🐣 
 
 ## Grants
-- 2024 - 2025
+- 2024 - 2025 <br>
 **Quantifying codon-driven translation efficiency in human cancer by single-cell profiling** <br>
 Karolinska Institutet Special grants for younger scientists
 
