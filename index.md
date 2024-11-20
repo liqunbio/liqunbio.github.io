@@ -40,8 +40,6 @@ Karolinska Institutet special grants for younger scientists (2 years, 263,200 SE
 
 {% include_relative _includes/publicationsB.md %}
 
-{% include_relative _includes/services.md %}
-
 ## Code
 [Github](https://github.com/QunATCG) | [Gitee](https://gitee.com/qunatcg)
 
@@ -52,6 +50,8 @@ Outstanding Graduate of Fudan University.
 Academic Studentship Award (3yr Funding Grant, Fudan University)
 - 2017.09 - 2020.06 <br> 
 Academic Studentship Award (3yr Funding Grant, Northwest A & F University)
+
+{% include_relative _includes/services.md %}
 
 ## Contact
 [liqun95@163.com](mailto:liqun95@163.com) | [qun.li@ki.se](mailto:qun.li@ki.se) | [qunli20@fudan.edu.cn](mailto:qunli20@fudan.edu.cn) | [leequn@nwsuaf.edu.cn](mailto:leequn@nwsuaf.edu.cn)
