@@ -34,7 +34,8 @@ Born in China 🐣🐣
 ## Grants
 - 2024.01 - 2025.12 <br>
 **Quantifying codon-driven translation efficiency in human cancer by single-cell profiling** <br>
-Karolinska Institutet special grants for younger scientists (2 years, 263,200 SEK)
+Special grants for younger scientists (Karolinska Institutet Research Grants) <br>
+(263,200 SEK)
 
 {% include_relative _includes/publicationsA.md %}
 
