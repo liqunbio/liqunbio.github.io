@@ -10,7 +10,7 @@
             </div>
             <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
                <div class="title"><a href="https://academic.oup.com/nar/article/54/5/gkag090/8500553" target="_blank">RAPseq enables large-scale identification of RBP-RNA interactions and reveals essentials of post-transcriptional gene regulation</a></div>
-               <div class="author">Mosca R#, Gallardo-Dodd C J#, <strong>Li Q</strong>strong>#, Sommerauer C, Šidiškis J, Søndergaard J N, Kutter C*</div>
+               <div class="author">Mosca R#, Gallardo-Dodd C J#, <strong>Li Q</strong>#, Sommerauer C, Šidiškis J, Søndergaard J N, Kutter C*</div>
                <div class="periodical"><strong><em>Nucleic Acids Research</em></strong>, 2023</div>
                <div class="links">
                   <a href="assets/publication/2026_NAR_RAPseq.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
