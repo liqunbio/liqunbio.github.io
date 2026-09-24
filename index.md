@@ -51,4 +51,4 @@ Academic Studentship Award (3yr Funding Grant, Northwest A & F University)
 {% include_relative _includes/services.md %}
 
 ## Contact
-[liqun95@163.com](mailto:liqun95@163.com) | [qun.li@ki.se](mailto:qun.li@ki.se) | [qunli20@fudan.edu.cn](mailto:qunli20@fudan.edu.cn) | [leequn@nwsuaf.edu.cn](mailto:leequn@nwsuaf.edu.cn)
+[liqun95@163.com](mailto:liqun95@163.com)
