@@ -12,7 +12,11 @@ Before joining Karolinska Institutet, he completed his doctoral training at [**H
 
 
 ## Education
-- 2023.11 - Present <br>
+- 2026.09 - now <br>
+Post-Doc., Training in Dr. Sanja Vickovic Group <br>
+**IGP, Uppsala university, Sweden** <br>
+Major: Spatial Transcriptomics
+- 2023.11 - 2026.09 <br>
 Post-Doc., Training in Dr. Claudia Kutter Group <br>
 **MTC, Karolinska Institutet, Sweden** <br>
 Major: Transcription and Translation
