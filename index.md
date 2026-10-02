@@ -10,7 +10,7 @@ Qun's overall interest is to understand genetic and epigenetic mechanisms relate
 ## Education
 - 2026.10 - now <br>
 Post-Doc., Training in Dr. Sanja Vickovic Group <br>
-**IGP, Uppsala university, Sweden** <br>
+**IGP, Uppsala University, Sweden** <br>
 Major: Spatial Transcriptomics
 - 2023.11 - 2026.09 <br>
 Post-Doc., Training in Dr. Claudia Kutter Group <br>
