@@ -17,7 +17,7 @@ Post-Doc., Training in Dr. Claudia Kutter Group (@[KI](https://ki.se/en/research
 **MTC, Karolinska Institutet, Sweden** <br>
 Major: Transcription and Translation
 - 2020.09 – 2023.07 <br>
-Ph.D., Advised by Dr. Lei Wang and Dr. Qing Sang<br>
+Ph.D., Advised by Dr. Lei Wang and Dr. Qing Sang (@[FDU](https://reprod-genet.fudan.edu.cn/laben/22981/list.htm))<br>
 **Institutes of Biomedical Sciences, Fudan University, China** <br>
 Major: Biochemistry and Molecular Biology
 - 2018.09 - 2020.06 <br>
