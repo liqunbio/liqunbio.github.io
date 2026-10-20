@@ -13,7 +13,7 @@ Post-Doc., Training in Dr. Sanja Vickovic Group (@[UU](https://www.uu.se/en/cont
 **IGP, Uppsala University, Sweden** <br>
 Major: Spatial Transcriptomics
 - 2023.11 - 2026.09 <br>
-Post-Doc., Training in Dr. Claudia Kutter Group <br>
+Post-Doc., Training in Dr. Claudia Kutter Group (@[KI](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/regulatory-transcriptomics-kutter-group#tab-staff-and-contact))<br>
 **MTC, Karolinska Institutet, Sweden** <br>
 Major: Transcription and Translation
 - 2020.09 – 2023.07 <br>
