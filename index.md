@@ -21,11 +21,11 @@ Ph.D., Advised by Dr. Lei Wang and Dr. Qing Sang (@[FDU](https://reprod-genet.fu
 **Institutes of Biomedical Sciences, Fudan University, China** <br>
 Major: Biochemistry and Molecular Biology
 - 2018.09 - 2020.06 <br>
-M.S., Advised by Dr. Mingzhi Liao <br>
+M.S., Advised by Dr. Mingzhi Liao (@[NWAFU](https://life.nwafu.edu.cn/szdw/js2/389648.htm))<br>
 **College of Life Sciences, Northwest A & F University, China** <br>
 Major: Bioinformatics
 - 2014.09 - 2018.07 <br>
-B.S., Advised by Dr. Mingzhi Liao <br>
+B.S., Advised by Dr. Mingzhi Liao (@[NWAFU](https://life.nwafu.edu.cn/szdw/js2/389648.htm))<br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
 Major: Biotechnology
 - 1995.08 <br>
