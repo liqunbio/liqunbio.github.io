@@ -7,7 +7,15 @@ layout: homepage
 Qun's overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods (**Genetics & Genomics**). <br>
 <br>
 
-## Education
+## Research Interests
+
+Single-Cell and Spatial Transcriptomics
+Somatic Mutation Detection and Lineage Tracing
+Cancer Genomics and Tumor Evolution
+Computational Biology and Bioinformatics
+Transcriptional and Translational Regulation
+
+## Research Appointments
 - 2026.10 - now <br>
 Post-Doc., Training in Dr. Sanja Vickovic Group (@[UU](https://www.uu.se/en/contact-and-organisation/organisation?query=X39%3A164) and @[NYGC](https://www.vickovictechinnovation.com/ourteam)) <br>
 **IGP, Uppsala University, Sweden** <br>
@@ -16,6 +24,8 @@ Major: Spatial Transcriptomics
 Post-Doc., Training in Dr. Claudia Kutter Group (@[KI](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/regulatory-transcriptomics-kutter-group#tab-staff-and-contact))<br>
 **MTC, Karolinska Institutet, Sweden** <br>
 Major: Transcription and Translation
+
+## Education
 - 2020.09 – 2023.07 <br>
 Ph.D., Advised by Dr. Lei Wang and Dr. Qing Sang (@[FDU](https://reprod-genet.fudan.edu.cn/laben/22981/list.htm))<br>
 **Institutes of Biomedical Sciences, Fudan University, China** <br>
@@ -28,8 +38,6 @@ Major: Bioinformatics
 B.S., Advised by Dr. Mingzhi Liao (@[NWAFU](https://life.nwafu.edu.cn/szdw/js2/389648.htm))<br>
 **College of Innovation and Experiment, Northwest A & F University, China** <br>
 Major: Biotechnology
-- 1995.08 <br>
-Born in China 🐣🐣 
 
 {% include_relative _includes/grants.md %}
 
