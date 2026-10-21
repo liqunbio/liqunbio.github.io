@@ -3,12 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-
 Qun's overall interest is to understand genetic and epigenetic mechanisms related to disease processes using multiple omics methods (**Genetics & Genomics**). <br>
 <br>
 
 ## Research Interests
-
 Single-Cell and Spatial Transcriptomics ｜ Somatic Mutation Detection and Lineage Tracing ｜ Cancer Genomics and Tumor Evolution ｜ Computational Biology and Bioinformatics ｜ Transcriptional and Translational Regulation
 
 ## Research Appointments
