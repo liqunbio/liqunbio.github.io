@@ -9,7 +9,7 @@ Qun's overall interest is to understand genetic and epigenetic mechanisms relate
 ## Research Interests
 Single-Cell and Spatial Transcriptomics ｜ Somatic Mutation Detection and Lineage Tracing ｜ Cancer Genomics and Tumor Evolution ｜ Computational Biology and Bioinformatics ｜ Transcriptional and Translational Regulation
 
-## Research Appointments
+## Research Experience
 - 2026.10 - now <br>
 Post-Doc., Training in Dr. Sanja Vickovic Group (@[UU](https://www.uu.se/en/contact-and-organisation/organisation?query=X39%3A164) and @[NYGC](https://www.vickovictechinnovation.com/ourteam)) <br>
 **IGP, Uppsala University, Sweden** <br>
