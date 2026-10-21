@@ -9,11 +9,7 @@ Qun's overall interest is to understand genetic and epigenetic mechanisms relate
 
 ## Research Interests
 
-Single-Cell and Spatial Transcriptomics
-Somatic Mutation Detection and Lineage Tracing
-Cancer Genomics and Tumor Evolution
-Computational Biology and Bioinformatics
-Transcriptional and Translational Regulation
+Single-Cell and Spatial Transcriptomics ｜ Somatic Mutation Detection and Lineage Tracing ｜ Cancer Genomics and Tumor Evolution ｜ Computational Biology and Bioinformatics ｜ Transcriptional and Translational Regulation
 
 ## Research Appointments
 - 2026.10 - now <br>
